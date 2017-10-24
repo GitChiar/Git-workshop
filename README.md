@@ -1,6 +1,6 @@
 # Git for Powercoders
 
-*Usage:* This is your work sheet. Change it in any way you want (as long as you can answer the goals), 
+*Usage:* This is your work sheet. Change it in any way you want (as long as you can answer the goals),
 **add any notes that help you personally** to remember tomorrow and also the days after tomorrow.
 
 This is a [Markdown file](https://daringfireball.net/projects/markdown/syntax) which many servers,
@@ -15,7 +15,7 @@ like GitHub too, format nicely as HTML.
 
 What does Git do when initialising a local repository?
 
-* Your answer here
+* Your answer here:my answer
 
 
 ### Saving my changes
@@ -105,4 +105,3 @@ List files in current directory
 * [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html) is a nice cheatsheet with all the areas and operations in Git
 * [no deep shit](http://rogerdudler.github.io/git-guide/) but a good summary
 * [Pro Git](https://git-scm.com/book/en/v2) if you are really serious (or curious)
-
