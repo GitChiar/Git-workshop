@@ -15,7 +15,7 @@ like GitHub too, format nicely as HTML.
 
 What does Git do when initialising a local repository?
 
-* Your answer here:my answer
+* Your answer here:my answer//git shoildnt be deleted
 
 
 ### Saving my changes
@@ -93,6 +93,7 @@ Change to subdirectory and back to parent
 List files in current directory
 
     ls -lah
+    // this should be a comment :3
 
 
 
